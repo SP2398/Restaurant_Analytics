@@ -32,23 +32,23 @@ Dataset: CSV file containing restaurant sales and operational data
 
 Key Insights
 
-Best-rated restaurants tend to offer high-cost, niche cuisines.
+  Best-rated restaurants tend to offer high-cost, niche cuisines.
 
-Popular cuisines vary by city, influencing customer ratings.
+  Popular cuisines vary by city, influencing customer ratings.
 
-Table booking and online delivery impact ratings, showing customer preferences for convenience.
+  Table booking and online delivery impact ratings, showing customer preferences for convenience.
 
-Customer votes and aggregate rating correlation help identify trusted restaurant choices.
+  Customer votes and aggregate rating correlation help identify trusted restaurant choices.
 
-Geospatial analysis highlights restaurant hotspots and competition levels.
+  Geospatial analysis highlights restaurant hotspots and competition levels.
 
 Results
 
-Identified peak dining hours and seasonal trends.
+  Identified peak dining hours and seasonal trends.
 
-Analyzed top-performing menu items based on rating and votes.
+  Analyzed top-performing menu items based on rating and votes.
 
-Predicted customer demand based on historical data using regression models.
+  Predicted customer demand based on historical data using regression models.
 
-Visualized restaurant clustering using latitude and longitude mapping.
+  Visualized restaurant clustering using latitude and longitude mapping.
 
